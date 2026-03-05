@@ -1,0 +1,2 @@
+Git Hub 
+GitHub is a web-based platform that acts as a secure, cloud-based repository for software developers to store, manage, track, and share code using Git version control. It facilitates collaboration through tools like branches, pull requests, and bug tracking, allowing teams to work on projects in real-time
